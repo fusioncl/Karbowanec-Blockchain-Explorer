@@ -1,4 +1,4 @@
-var api = 'http://108.61.198.115:32348';
+var api = 'http://35.237.186.141';
 var blockTargetInterval = 120;
 var coinUnits = 100000000;
 var symbol = 'xPR';
