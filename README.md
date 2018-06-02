@@ -1,5 +1,5 @@
-# Karbowanec-Blockchain-Explorer
-Block explorer for Prosus CryptoNote based cryptocurrency.
+# Prosus-Blockchain-Explorer
+Block Explorer for Prosus CryptoNote based cryptocurrency.
 
 #### Installation
 
